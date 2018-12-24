@@ -1,2 +1,2 @@
 # GraphQL-Howto
-GraphQL Tutorial using Prisma 
+GraphQL Tutorial using Apollo and Prisma ORM
